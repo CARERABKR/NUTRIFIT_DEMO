@@ -1,8 +1,0 @@
-{
-  "/not-found": "app/not-found.js",
-  "/admin/core/audit/page": "app/admin/core/audit/page.js",
-  "/admin/it-infra/itsm/page": "app/admin/it-infra/itsm/page.js",
-  "/admin/it-infra/ipaas/page": "app/admin/it-infra/ipaas/page.js",
-  "/admin/core/settings/page": "app/admin/core/settings/page.js",
-  "/admin/core/security/page": "app/admin/core/security/page.js"
-}
